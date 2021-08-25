@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\code\test\Scala\demo\target\scala-2.13\demo_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CubeCalculator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\code\test\Scala\demo\target\scala-2.13\classes\CubeCalculator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CubeCalculator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\code\test\Scala\demo\target\scala-2.13\classes\CubeCalculator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\code\test\Scala\demo\target\scala-2.13\classes\Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParameterizedMethods$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\code\test\Scala\demo\target\scala-2.13\classes\ParameterizedMethods$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ParameterizedMethods.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\code\test\Scala\demo\target\scala-2.13\classes\ParameterizedMethods.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VarValLazyDef.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\code\test\Scala\demo\target\scala-2.13\classes\VarValLazyDef.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
