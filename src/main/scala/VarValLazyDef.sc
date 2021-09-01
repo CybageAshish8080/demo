@@ -21,5 +21,5 @@ println(hello.sayHello("Scala"))
 def add(a:Int, b: Int) = a + b
 add(4,9)
 
-def substract(a:Int, b:Int) = a - b
-substract(13,10)
+def substrate(a:Int, b:Int) = a - b
+substrate(13,10)

@@ -1,0 +1,17 @@
+Challenge
+=======================
+
+1. Create a new project in Scala IDE
+2. add a worksheet to this project
+3. In the worksheet, add two functions for add and substract
+4. Each function takes two arguments
+5. The functions both return one value.
+	Add will return sum of two numbers
+	and substract will return difference of two numbers.
+
+6. Save the worksheet
+7. Test new functions with 
+	Add(10,20)
+	Substract(10,20)
+	Add your own test cases too
+

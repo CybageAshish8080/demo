@@ -1,0 +1,10 @@
+Scala Seq is a trait to represent immutable sequences. 
+This structure provides index based access and various utility methods to find elements, 
+their occurences and subsequences. A Seq maintains the insertion order.
+
+Challenge
+=======================
+
+1. Create ExampleProject
+2. Create Seq with few ages
+3. Print max age

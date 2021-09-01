@@ -1,0 +1,12 @@
+Challenge
+=======================
+
+1. Create a new project in Scala IDE
+2. Add a Scala app
+3. Create a function to find the average of an array of numbers
+4. Write functions for the min and max of an array
+5. Create an array with 10 values
+6. Print out the results of average, sum, min and max
+
+
+
