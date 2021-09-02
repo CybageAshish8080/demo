@@ -6,7 +6,7 @@ Challenge
 3. Write code for a payroll function
 4. payroll function will calculate weekly paycheck for an hourly employee
 	In our example,
-	Pay hourly employees overtime (1.5 times hourly rate)
+	Pay hourly employees' overtime (1.5 times hourly rate)
 	which means first 40 hours will calculate with regular rate.
 	anything above 40 hours should be calculated 1.5 times of hourly rate.
 5. Use an hourly rate of 10.50
