@@ -6,7 +6,7 @@ Once you’ve completed the challenge come back and watch the solution.
 
 
 ## Challenges
-Follow the links to access the code as per each module
+Follow the links to access the objective for each challenge
 
 ### Basic
 - [Ex 01.01 - Worksheet](https://github.com/CybageAshish8080/demo/blob/main/src/main/scala/exercise/Ex_01_01/objective.txt)
